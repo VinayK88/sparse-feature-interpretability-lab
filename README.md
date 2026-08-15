@@ -21,6 +21,16 @@ The entire model and optimizer are implemented in NumPy. No model download, GPU,
 
 ![Feature recovery by ground-truth feature](reports/feature_recovery.svg)
 
+## 60-second reviewer path
+
+Short on time? Review the project in this order:
+
+1. [Understand the controlled experiment](#experimental-setup).
+2. [Inspect the interpretability metrics](#what-is-measured).
+3. [Review the checked-in baseline](#checked-in-baseline).
+4. [Reproduce the experiment](#quick-start).
+5. [Read the limitations and next tests](#limitations-and-next-experiments).
+
 ## Experimental setup
 
 ```mermaid
