@@ -15,6 +15,8 @@
 
 ---
 
+![Sparse Feature Interpretability Lab dashboard preview](assets/dashboard-preview.svg)
+
 A small, reproducible mechanistic-interpretability experiment built to answer a falsifiable question: when known sparse features are mixed into a lower-dimensional representation, can an overcomplete sparse autoencoder recover their directions—and do interventions on those learned latents causally change the intended feature?
 
 The entire model and optimizer are implemented in NumPy. No model download, GPU, or hidden API result is required.
